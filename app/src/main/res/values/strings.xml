@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD_Prac5_22012011011</string>
+    <string name="title_activity_login_screen_ui">LoginScreenUI</string>
+    <string name="title_activity_register_screen_ui">RegisterScreenUI</string>
+</resources>
